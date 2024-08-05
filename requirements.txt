@@ -2,7 +2,7 @@
 # NOTE: This was unavailable as a whl at this time
 #       We need it however to be able to
 #       set weights on testnet
-https://github.com/opentensor/bittensor/archive/b4854b6dd933e95b4555ea95a17fa9e603908919.zip
+git+https://github.com/opentensor/bittensor/archive/b4854b6dd933e95b4555ea95a17fa9e603908919.zip
 
 imagehash==4.3.1
 msgpack==1.0.8
